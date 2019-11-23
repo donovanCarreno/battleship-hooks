@@ -1,0 +1,19 @@
+.table {
+  position: absolute;
+  left: 173px;
+  top: 98px;
+  border-spacing: 0;
+}
+
+.tableDetail {
+  width: 94px;
+  height: 94px;
+}
+
+.hit {
+  background: url('./ship.png') no-repeat center center;
+}
+
+.miss {
+  background: url('./miss.png') no-repeat center center;
+}

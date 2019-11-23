@@ -1,0 +1,13 @@
+.form {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 15px;
+  background-color: rgb(83, 175, 19);
+}
+
+.formInput {
+  background-color: rgb(152, 207, 19);
+  border-color: rgb(83, 175, 19);
+  font-size: 1em;
+}
